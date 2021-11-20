@@ -1,13 +1,12 @@
 <?php
 
 /**
- * Plugin Name: Learndash Question Setter
+ * Plugin Name: Learndash Quiz to PDF
  * Version: 1.0.0
  * Description: This plugin allows you to generate a PDF/DOCX file for your creating Quiz Test Paper based on multiple criteria.
  * Author: pluginswizard
  * Text Domain: quiztodocxandpdf 
  */
-
 
 
 class QuizToDocxAndPdf{
